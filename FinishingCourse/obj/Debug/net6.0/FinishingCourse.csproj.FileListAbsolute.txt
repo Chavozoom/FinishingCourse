@@ -1,0 +1,15 @@
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\bin\Debug\net6.0\FinishingCourse.exe
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\bin\Debug\net6.0\FinishingCourse.deps.json
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\bin\Debug\net6.0\FinishingCourse.runtimeconfig.json
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\bin\Debug\net6.0\FinishingCourse.dll
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\bin\Debug\net6.0\FinishingCourse.pdb
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\obj\Debug\net6.0\FinishingCourse.csproj.AssemblyReference.cache
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\obj\Debug\net6.0\FinishingCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\obj\Debug\net6.0\FinishingCourse.AssemblyInfoInputs.cache
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\obj\Debug\net6.0\FinishingCourse.AssemblyInfo.cs
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\obj\Debug\net6.0\FinishingCourse.csproj.CoreCompileInputs.cache
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\obj\Debug\net6.0\FinishingCourse.dll
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\obj\Debug\net6.0\refint\FinishingCourse.dll
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\obj\Debug\net6.0\FinishingCourse.pdb
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\obj\Debug\net6.0\FinishingCourse.genruntimeconfig.cache
+C:\Projetos\My Own Game\FinishingCourse\FinishingCourse\obj\Debug\net6.0\ref\FinishingCourse.dll
